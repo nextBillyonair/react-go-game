@@ -2,6 +2,8 @@
 
 This is a sample react project imitating a game of [Go](https://en.wikipedia.org/wiki/Go_(game)). It is built fully with React and JavaScript and deployed using `gh-pages` to https://nextbillyonair.github.io/react-go-game
 
+Deployment instructions are found here: https://create-react-app.dev/docs/deployment/#github-pages
+
 It's main purpose for me was to understand React & deployment procedures on github :) 
 
 -------------------------
