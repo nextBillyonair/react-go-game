@@ -1,0 +1,36 @@
+
+
+.square {
+  background: #fff;
+  border: 1px solid #999;
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  height: 34px;
+  margin: -1px;
+  padding: 0;
+  text-align: center;
+  width: 34px;
+  /* border-radius: 3px; */
+}
+
+.square:focus {
+  outline: none;
+}
+
+
+/* .square-black {
+  background-color: black;
+  opacity: 0.5;
+}
+.square-white {
+  background-color: white;
+}
+.square-empty {
+  background-color: gray;
+} */
+
+.square:hover {
+  /* box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19); */
+    background-color: #61dafb;
+}
